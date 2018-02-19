@@ -9,7 +9,7 @@ import org.jointheleague.graphical.robot.Robot;
 
 public class StarShow {
 	
-	Robot robot = new Robot("batman");
+	Robot dabOnHaters = new Robot("batman");
 	
 	void makeStars() {
 		
